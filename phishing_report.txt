@@ -1,0 +1,41 @@
+
+EMAIL #1
+Subject: URGENT: Your account has been suspended!
+From: security@paypa1.com
+Risk Score: 31
+Risk Level: CRITICAL - PHISHING DETECTED
+  [!] Suspicious keyword in subject: 'urgent'
+  [!] Suspicious keyword in subject: 'suspended'
+  [!] Suspicious sender domain: paypa1.com
+  [!] Phishing keyword in body: 'immediately'
+  [!] Phishing keyword in body: 'verify your account'
+  [!] Phishing keyword in body: 'click here'
+  [!] Unsecure HTTP link: http://paypa1.com/verify
+  [CRITICAL] Suspicious link detected: http://paypa1.com/verify
+  [!] Unsecure HTTP link: http://login-secure.info/update.exe
+  [CRITICAL] Suspicious link detected: http://login-secure.info/update.exe
+  [CRITICAL] Suspicious attachment: http://login-secure.info/update.exe
+============================================================
+
+EMAIL #2
+Subject: Meeting tomorrow at 10am
+From: colleague@company.com
+Risk Score: 0
+Risk Level: SAFE
+============================================================
+
+EMAIL #3
+Subject: Congratulations! You are a winner!
+From: promo123@free-gifts.xyz
+Risk Score: 17
+Risk Level: CRITICAL - PHISHING DETECTED
+  [!] Suspicious keyword in subject: 'winner'
+  [!] Suspicious keyword in subject: 'congratulations'
+  [!] Numbers in sender name: promo123@free-gifts.xyz
+  [!] Phishing keyword in body: 'immediately'
+  [!] Phishing keyword in body: 'free'
+  [!] Phishing keyword in body: 'limited time'
+  [!] Phishing keyword in body: 'act now'
+  [!] Unsecure HTTP link: http://free-gifts.xyz/claim.zip
+  [CRITICAL] Suspicious attachment: http://free-gifts.xyz/claim.zip
+============================================================
